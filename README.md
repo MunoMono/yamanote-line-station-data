@@ -28,3 +28,6 @@ This dataset is used in a [React-based data visualisation project](https://githu
 ## 💡 Citation
 
 If you use this dataset in your research, teaching, or visualisation work, please cite as: Newman, G.
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
