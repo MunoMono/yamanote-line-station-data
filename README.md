@@ -27,4 +27,4 @@ This dataset is used in a [React-based data visualisation project](https://githu
 
 ## 💡 Citation
 
-If you use this dataset in your research, teaching, or visualisation work, please cite as:
+If you use this dataset in your research, teaching, or visualisation work, please cite as: Newman, G.
