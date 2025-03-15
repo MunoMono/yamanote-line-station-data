@@ -4,7 +4,7 @@ This repository contains a clean, structured dataset of stations along the **Yam
 
 ## 📊 Preview
 
-![Yamanote Line chart preview](visualisation/chart-preview.png)
+![Yamanote Line Chart](./visualisation/yamanote-chart.png)
 
 ## 📂 Dataset Contents
 
